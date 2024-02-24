@@ -1,14 +1,8 @@
 {
-    "name": "proxy-checker",
+    "name": "x14/proxy-checker",
     "description": "Just check proxy",
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "x14",
-            "email": "pa@pest14.ru"
-        }
-    ],
     "require": {
         "php": "^7.2.5 || ^8.0" ,
         "guzzlehttp/guzzle": "^6.5",
